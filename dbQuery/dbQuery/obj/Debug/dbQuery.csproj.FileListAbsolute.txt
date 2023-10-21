@@ -1,0 +1,10 @@
+C:\Users\Happydll\source\repos\dbQuery\dbQuery\obj\Debug\dbQuery.csproj.AssemblyReference.cache
+C:\Users\Happydll\source\repos\dbQuery\dbQuery\obj\Debug\fudhgjvkc.Form1.resources
+C:\Users\Happydll\source\repos\dbQuery\dbQuery\obj\Debug\dbQuery.csproj.GenerateResource.cache
+C:\Users\Happydll\source\repos\dbQuery\dbQuery\obj\Debug\dbQuery.csproj.CoreCompileInputs.cache
+C:\Users\Happydll\source\repos\dbQuery\dbQuery\bin\Debug\dbQuery.exe.config
+C:\Users\Happydll\source\repos\dbQuery\dbQuery\bin\Debug\dbQuery.exe
+C:\Users\Happydll\source\repos\dbQuery\dbQuery\bin\Debug\dbQuery.pdb
+C:\Users\Happydll\source\repos\dbQuery\dbQuery\obj\Debug\dbQuery.Properties.Resources.resources
+C:\Users\Happydll\source\repos\dbQuery\dbQuery\obj\Debug\dbQuery.exe
+C:\Users\Happydll\source\repos\dbQuery\dbQuery\obj\Debug\dbQuery.pdb

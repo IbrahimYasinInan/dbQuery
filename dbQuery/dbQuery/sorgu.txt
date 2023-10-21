@@ -1,0 +1,5 @@
+SELECT * FROM users;
+UPDATE users SET userName="bb", password="cccccc";
+INSERT INTO users (userName, password) VALUES ("dd","dddddd");
+DELETE FROM users WHERE password="cccccc";
+
